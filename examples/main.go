@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aliskhannn/Or-channel/or"
+	"github.com/aliskhannn/or-channel/or"
 )
 
 func main() {

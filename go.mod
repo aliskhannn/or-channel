@@ -1,3 +1,3 @@
-module github.com/aliskhannn/Or-channel
+module github.com/aliskhannn/or-channel
 
-go 1.24.2
+go 1.25.1

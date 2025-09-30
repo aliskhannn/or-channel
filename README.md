@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"time"
 
-	or "github.com/aliskhannn/or-channel"
+    "github.com/aliskhannn/or-channel/or"
 )
 
 func sig(after time.Duration) <-chan any {
